@@ -6,10 +6,10 @@ It represents my early steps in learning the fundamentals of UI/UX design and ba
 visually appealing and functional web presence. It's a reflection of the skills I acquired as I began my journey in web development.
 
 # Features
-* Pure HTML: Structured and semantic HTML to lay the foundation of the webpage.
-* CSS Styling: Custom CSS for layout and design, emphasizing responsive and visually appealing elements.
-* JavaScript Interactivity: Basic JavaScript to add interactivity and enhance the user experience.
-* UI/UX Design Principles: Application of fundamental UI/UX design principles to ensure a user-friendly interface.
+* **Pure HTML**: Structured and semantic HTML to lay the foundation of the webpage.
+* **CSS Styling**: Custom CSS for layout and design, emphasizing responsive and visually appealing elements.
+* **JavaScript Interactivity**: Basic JavaScript to add interactivity and enhance the user experience.
+* **UI/UX Design Principles**: Application of fundamental UI/UX design principles to ensure a user-friendly interface.
 
 # What I learned 
 * Gained practical experience in structuring web pages using HTML.
